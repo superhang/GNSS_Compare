@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:E.\GPS\2019-9-6\GNSS_Compare\libs\ejml-simple-0.32.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ejml-simple-0.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/ejml-simple-0.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
